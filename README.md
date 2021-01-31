@@ -1,5 +1,7 @@
-# django-flutter-todo
-Todo application built off Django (including the Django REST Framework for API CRUD operations) and Flutter
+## Introduction
+
+This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and Flutter. For a complete walkthrough, see [Build a To-Do application Using Django and Flutter](https://www.tbd.com/tutorials/build-a-to-do-application-using-django-and-flutter)
+
 
 ## Built With
 
